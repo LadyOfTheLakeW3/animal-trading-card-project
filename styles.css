@@ -1,0 +1,38 @@
+body{
+    font-family: 'Alegreya', serif;
+}
+.container {
+    background: linear-gradient(rgba(111,111,111,0.5), rgba(255,0,0,0));
+    border: 1px solid #edebe8;
+    border-radius: 10px;
+    box-shadow: 5px 5px #f7f5f2;
+    padding: 0 10px;
+    width: 350px;
+}
+
+h3 {
+    font-size: 24px;
+    padding: 0 0 5px 0;
+}
+
+img {
+    padding: 0 0 15px 0;
+    width: 100%;
+}
+
+.information {
+    border: 1px solid #edebe8;
+    border-radius: 10px;
+    padding: 0 10px 10px 10px;
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+span {
+    font-weight: 700;
+}
